@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f2a44,100:7c3aed&text=Davlet%20Ataoglu&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Intelligence%2C%20built%20to%20remember.&descAlignY=60&descSize=18" width="100%" alt="Davlet Ataoglu" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f2a44,100:7c3aed&text=Davlet%20Ataoglu&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Intelligence%2C%20built%20to%20remember.&descAlignY=60&descSize=18" width="100%" alt="Davlet Ata" />
 
 <a href="https://portfolio.davletvm.workers.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=ML+%2F+LLM+Systems+Engineer+%26+Researcher;Agent+memory+%C2%B7+Deep+retrieval+%C2%B7+Calibrated+autonomy;Sole+architect+of+Brain+Engine+%E2%80%94+184K+lines+in+production;20+years%3A+Linux+kernel+%E2%86%92+Kubernetes+%E2%86%92+agents" alt="Typing headline" />
