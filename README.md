@@ -82,6 +82,20 @@ flowchart LR
 | **Lessons Store** | research | Learning from incidents the way people do: extract *incident → cause → prescription*, then surface the lesson in structurally similar situations. Behavioral improvement without retraining. |
 | **Brain Engine 3.0** | architecture | A computable enterprise platform: eleven composable runtime layers and a MetaModel architecture-search subsystem. Principle: *composable intelligence, deterministic execution*. |
 
+## Open source & ecosystem
+
+I work at source level with the agentic and retrieval OSS stack — reading these systems' internals, adapting their architectural ideas, and reimplementing them with different tradeoffs where my requirements diverged.
+
+| Project | How I use it |
+|---|---|
+| **LangGraph** | Studied its agent-graph orchestration model, then built **Brain Graph**, my own execution engine with purpose-built state and resumption semantics. |
+| **Graphiti · Mem0** | Architectural basis for Memory Engine's temporal knowledge graph and associative recall design. |
+| **pgvector · Qdrant** | Vector indexing and hybrid search in the production retrieval layer. |
+| **ollama · Text Embeddings Inference** | Self-hosted model serving. TEI runs the cross-encoder on the production path. |
+| **SmoothQuant** | Post-training quantization (W8A8) for inference cost and latency reduction. |
+| **OpenClaw** | Agent framework, skill and tool architecture. |
+| **Moonshot AI (Kimi)** | Open model releases and long-context architecture. |
+
 ## Career
 
 | Company | Role | What I worked on |
