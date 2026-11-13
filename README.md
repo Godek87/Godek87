@@ -24,10 +24,10 @@ My background runs through the Linux kernel and virtualization, Kubernetes, deve
 
 ```python
 davlet = {
-    "now":       "Founding Engineer @ Cendra — Brain Engine, the platform's intelligence layer",
+    "now":       "Creator of Brain Engine — memory and decision layer for autonomous operations",
     "research":  ["token-free recall", "bi-temporal knowledge graphs", "learning from incidents"],
     "position":  "recall is reconstruction and association, not text generation",
-    "languages": ["English", "Russian", "Turkish"],
+    "languages": ["Turkish", "Russian", "English", "Serbian"],
     "open_to":   "relocation · pilots · research collaboration",
 }
 ```
@@ -81,6 +81,24 @@ flowchart LR
 | **Memory Engine** | in build | Token-free recall: graph traversal, cross-encoder scoring and a bandit access controller, with **no generative model in the loop**. Builds on ideas from KGERMAR, MemCon, MRAgent, Graphiti and Mem0. |
 | **Lessons Store** | research | Learning from incidents the way people do: extract *incident → cause → prescription*, then surface the lesson in structurally similar situations. Behavioral improvement without retraining. |
 | **Brain Engine 3.0** | architecture | A computable enterprise platform: eleven composable runtime layers and a MetaModel architecture-search subsystem. Principle: *composable intelligence, deterministic execution*. |
+
+## Career
+
+| Company | Role | What I worked on |
+|---|---|---|
+| **Brain Engine** | Creator | Memory, MetaModel and decision layers for an enterprise intelligence system. |
+| **Cendra** | Founding Engineer · Chief Architect | Chief architect and primary developer of an AI operations platform for property management and short-term rentals. **The product raised $1M in investment.** 6+ unified channels, 50+ home-automation integrations, escalation and on-call layer. |
+| **Ruwada AI** | Co-Founder | Zero to product. First generation of Brain Engine; founder-led sales and customer integrations. |
+| **Mozilla** | Staff Software Engineer | Test engineering lead for Firefox Telemetry (Python, Docker, BigQuery). JavaScript performance. Monitor team (React, TypeScript, Next.js). Telemetry-informed funnel work contributed to a **54% reduction in user churn**. Co-led Continuous Deployment adoption with a DORA-metrics service catalog. |
+| **Opera** | Full Stack Engineer | Recommendation systems and serving infrastructure, Node.js microservices, Opera Mini for Android. Led a team technically and as manager. |
+| **Red Hat** | Principal Staff Software Engineer | Core kernel team: Linux kernel for RHEL and Fedora, C, eBPF, clang/LLVM. Kubernetes. |
+| **Microsoft** | Staff Software Engineer | .NET platform. First ML/AI work. |
+| **Yandex** | Software Engineer | Yandex.Maps, Yandex.Music, search and information retrieval at Yandex Labs. |
+| **JetBrains** | Software Engineer | IDE development (WebStorm, PhpStorm), Android tooling. |
+| **Parallels** | Linux Kernel Developer | Linux kernel and virtualization: OpenVZ, KVM, memory and device cgroups. |
+| **Borland** | Software Engineer | C++ Builder. |
+
+<sub>M.Sc. Computer Science, Bauman Moscow State Technical University · Executive programs: MIT Sloan (Digital Business Strategy), INSEAD (Digital Strategy), Harvard Business School (Digital Transformation)</sub>
 
 ## Stack
 
